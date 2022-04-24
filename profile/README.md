@@ -17,7 +17,7 @@ A bunch of developers working on Qualcomm Snapdragon Family SoC Devices and tryi
 - [Cyber Knight](https://github.com/cyberknight777) - Redmi Note 10(mojito) and Oneplus 7 Series Developer
 - [Anurag Rai](https://github.com/Dark-Matter7232) - The Samsung chad; Samsung Galaxy M21 Developer
 - [Gaurav](https://github.com/Gaurav241) - Another Asus Zenfone Max Pro M2(X01BD) Chad Developer 
-- [Sarthak Roy](https://github.com/sarthakroy2002) - Realme C3/Narzo 20A Developer
+- [Sarthak Roy](https://github.com/sarthakroy2002) - Realme C3/Narzo 10A Developer
 - [Sakthivel Nadar](https://github.com/SparXFusion) - FusionOS Lead and Xiaomi Redmi Note 7(lavender) Developer
 - [Ryuuji](https://github.com/RyuujiX) - The Skywalker Chad; Asus Zenfone Max Pro M1/M2(X00TD/X01BD) Developer
 - [Sushrut Gupta](https://github.com/Sushrut1101) - Our Bot Admin

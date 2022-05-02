@@ -1,4 +1,4 @@
-![Atom-X-Developers](https://github.com/Atom-X-Devs/.github/blob/main/banner.jpg)
+![Atom-X-Developers](https://github.com/UsiFX/atom.github/blob/main/banner.jpg)
 
 The Atom-X Developers Organisation
 ==================================

@@ -8,7 +8,7 @@ A bunch of developers working on Qualcomm Snapdragon SoC powered devices and try
 
 - [Divyanshu-Modi](https://github.com/Divyanshu-Modi) - Founder, Xiaomi POCO X5 PRO 5G(redwood), Xiaomi 11 Lite 5G NE(lisa) and Xiaomi Redmi Note 6 Pro(Tulip) Developer
 - [Kunmun](https://github.com/ElectroPerf) - Co-founder, AtomX lead, Nothing Phone 2(pong), Realme GT 2(porsche), Moto Edge 30(dubai) and Asus Zenfone Max Pro M1/M2(X00TD/X01BD) Developer
-- [Tashfin Shakeer Rhythm](https://github.com/Tashar02) - Xiaomi POCO X5 PRO 5G(redwood), Xiaomi Mi A2(jasmine sprout) Developer
+- [Tashfin Shakeer Rhythm](https://github.com/Tashar02) - Xiaomi POCO X5 PRO 5G(redwood), Xiaomi Mi A2(jasmine_sprout) Developer
 - [Vyom Desai](https://github.com/CannedShroud) - Xiaomi 11 Lite 5G NE(lisa), Xiaomi Redmi K20 Pro(raphael) Developer and Project Lighthouse Core Member
 - [Dakkshesh](https://github.com/dakkshesh07) - Realme XT(RMX1921) Developer but SDM710
 - [Forenche](https://github.com/Forenche) - Motorola Moto G62(rhodei - holi) and Xiaomi POCO X3 NFC(surya) Developer
